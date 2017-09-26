@@ -1,0 +1,14 @@
+
+nav ul{
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+}
+
+nav ul li a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.5em;
+    padding: 0 .6em;
+    font-weight: 300px;
+}

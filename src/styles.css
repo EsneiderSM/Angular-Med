@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    color:#656565;
+    font-weight: 300;
+}
+
+.color-emerald{
+    color: #6ddeb3;
+}
+
+h1{
+    font-family: 'Merriweather', serif;
+    font-size: 3.5em;
+    font-weight: 300;
+}
