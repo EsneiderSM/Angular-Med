@@ -14,3 +14,11 @@ header{
         }
     }
 }
+
+@media(max-width: 768px){ 
+    header{
+        .logo-header{
+            width: 200px;
+        }
+    }
+}

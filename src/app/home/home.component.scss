@@ -93,3 +93,13 @@
     }
 }
 
+@media(max-width: 768px){
+    .wrapper-content{
+        left: 5%;
+        width: 90%;
+        .text-next-meetup{
+            color: $white;
+            font-size: 1em;
+        }
+    }
+}
