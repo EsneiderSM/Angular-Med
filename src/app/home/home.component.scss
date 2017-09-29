@@ -94,10 +94,12 @@
 
 @media(max-height: 768px){
     .content-home{
-        .ctn-networks,
         .header, 
         .main{
-            flex: 2 100%; 
+            flex: 1 100%; 
+        }
+        .ctn-networks{
+            flex: 2 100%;
         }
     }
 }
