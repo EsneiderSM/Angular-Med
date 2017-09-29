@@ -44,8 +44,8 @@ button{
     }
 }
 
-@media(max-width: 480px){ 
+@media (max-width: $break-extra-small) {
     h1{
-        font-size: 1.8em;
+        font-size: 1.4em;
     }
 }
