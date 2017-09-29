@@ -6,7 +6,7 @@
     //bottom: 0;
     @include flex;
     justify-content:space-around;
-    min-height: 195px; 
+    height: 195px; 
     position: absolute;
     padding: 3em;
     box-sizing: border-box;
@@ -79,7 +79,7 @@
         flex-direction: column;
         position: relative;
         bottom: 26px !important;
-        min-height: 337px;
+        height: auto;
         .ctn-newsletter{
             flex-direction: column;
             .text{
